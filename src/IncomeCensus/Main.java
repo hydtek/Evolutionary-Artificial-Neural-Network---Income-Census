@@ -3,9 +3,6 @@ package IncomeCensus;
  % This project combines evolutionary algorithms with Artificial      %
  % Neural networks to form an Evolutionary Artificial Neural Network  %
  % to Calculate if income is above 50k or below 50k                   %
- % Stephen Hyde - 3603453                                             %
- %                                                                    %
- % Final Project                                                      %
  **********************************************************************/
 import java.io.*;
 public class Main {

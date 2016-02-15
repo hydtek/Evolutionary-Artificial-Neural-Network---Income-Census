@@ -2,12 +2,9 @@ package IncomeCensus;
 import IncomeCensus.ANN;
 import java.io.*;
 /*********************************************************************%
- % the class EA is Evolutatonary Algorithm that uses GA to populate   %
+ % the class EA is Evolutionary Algorithm that uses GA to populate    %
  % genotypes that represent the connection weights. Uniform order     %
  % crossover and mutations were used. No elitism was used.            %
- % Stephen Hyde - 3603453                                             %
- % Cosc 4p76                                                          %
- % Final Project                                                      %
  **********************************************************************/
 public class EA {
     private String[] iniPop;    //array of the initial population

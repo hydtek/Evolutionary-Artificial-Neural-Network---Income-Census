@@ -2,12 +2,9 @@ package IncomeCensus;
 import java.io.*;
 
 /*********************************************************************%
-% the class ANN is an artificial neural network that is used to test %
-% and train the connection weights that the EA produces and returns  %
- * a fitness value.                                                   %
-% Stephen Hyde - 3603453                                             %
-% Cosc 4p76                                                          %
-% Final Project                                                      %
+% the class ANN is an artificial neural network that is used to test  %
+% and train the connection weights that the EA produces and returns   %
+% a fitness value.                                                   %                                                 %
  **********************************************************************/
 public class ANN {
 
